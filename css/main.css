@@ -22,13 +22,13 @@ body {font-family: 'Source Sans Pro', sans-serif;
 /***** STYLING FOR HEADER SECTION *****/
 header {
       height: 800px;
-      background-image: url("../img/hero.png");
+      background-image: url("../img/florida.png");
       background-size: cover;
 }
 header h1 {
       font-family: 'Lora', serif;
-      font-size: 30px;
-      color: #bbc085;
+      font-size: 45px;
+      color: #00b300;
       padding: 65px 0 65px 25px;
         float: left;
 }
@@ -43,7 +43,7 @@ nav ul li a {
       text-transform: uppercase;
       text-decoration: none;
       font-size: 20px;
-      color: #828282;
+      color: #00b300;
       padding-left: 80px;
 }
 header h2 {
@@ -52,7 +52,7 @@ header h2 {
       font-family: 'Lora', serif;
       font-size: 60px;
       line-height: 60px;
-      color: #9b9b9b;
+      color: #669999;
       padding: 20px 0 20px 25px;
 }
 header h2 span {
@@ -79,7 +79,7 @@ header h2 span {
 }
 /***** STYLING FOR WORK SECTION *****/
 #work {
-      background-color: #f9ceb7;
+      background-color: #669999;
       text-align: center;
 }
 #work .full-width {
