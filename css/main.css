@@ -22,13 +22,13 @@ body {font-family: 'Source Sans Pro', sans-serif;
 /***** STYLING FOR HEADER SECTION *****/
 header {
       height: 800px;
-      background-image: url("../img/florida.png");
+      /*background-image: url("../img/florida.png");*/
       background-size: cover;
 }
 header h1 {
       font-family: 'Lora', serif;
       font-size: 45px;
-      color: #00b300;
+      color: white;
       padding: 65px 0 65px 25px;
         float: left;
 }
