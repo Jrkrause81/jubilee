@@ -22,7 +22,7 @@ body {font-family: 'Source Sans Pro', sans-serif;
 /***** STYLING FOR HEADER SECTION *****/
 header {
       height: 800px;
-      /*background-image: url("../img/florida.png");*/
+      background-image: url("../img/florida.png");
       background-size: cover;
 }
 header h1 {
@@ -32,6 +32,13 @@ header h1 {
       padding: 65px 0 65px 25px;
         float: left;
 }
+nav ul li a {
+      text-transform: uppercase;
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      padding-left: 80px;
+}
 nav {
       float: right;
       padding: 75px 25px;
@@ -39,13 +46,7 @@ nav {
 nav ul li{
       display: inline-block;
 }
-nav ul li a {
-      text-transform: uppercase;
-      text-decoration: none;
-      font-size: 20px;
-      color: #00b300;
-      padding-left: 80px;
-}
+
 header h2 {
       width: 945px;
       clear: both;
@@ -77,9 +78,12 @@ header h2 span {
       padding-left: 100px;
       Padding-right: 100px;
 }
+#about {
+  background-color: #ebebeb;
+}
 /***** STYLING FOR WORK SECTION *****/
 #work {
-      background-color: #669999;
+      background-color: #a9b5cb;
       text-align: center;
 }
 #work .full-width {
