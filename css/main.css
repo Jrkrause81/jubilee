@@ -15,10 +15,25 @@ body {font-family: 'Source Sans Pro', sans-serif;
       width: 600px;
       float: left;
 }
+.half-width h2 {
+  color: #2d5986;
+}
+.half-width p {
+  font-family: 'Lora', serif;
+  color: #264d00;
+}
 .third-width {
       width: 400px;
       float: left;
 }
+.third-width a {
+  font-size: 20px;
+
+}
+.third-width h3 {
+  color: #2d5986;
+}
+
 /***** STYLING FOR HEADER SECTION *****/
 header {
       height: 800px;
@@ -28,7 +43,7 @@ header {
 header h1 {
       font-family: 'Lora', serif;
       font-size: 45px;
-      color: white;
+      color: #2d5986;
       padding: 65px 0 65px 25px;
         float: left;
 }
@@ -36,7 +51,7 @@ nav ul li a {
       text-transform: uppercase;
       text-decoration: none;
       font-size: 20px;
-      color: white;
+      color: #2d5986;
       padding-left: 80px;
 }
 nav {
@@ -53,7 +68,7 @@ header h2 {
       font-family: 'Lora', serif;
       font-size: 60px;
       line-height: 60px;
-      color: #669999;
+      color: #264d00;
       padding: 20px 0 20px 25px;
 }
 header h2 span {
@@ -69,6 +84,7 @@ header h2 span {
       font-family: 'Lora', serif;
       font-size:36px;
       padding-left: 100px;
+      color: #2d5986;
 }
 
 #about p {
