@@ -120,6 +120,11 @@ header h2 span {
       line-height: 30px;
       padding: 0 50px;
 }
+#work a {
+  text-decoration: none;
+  color: #2e5987;
+
+}
 /***** STYLING FOR CONTACT SECTION *****/
 #contact {
       background-color: #ebebeb;
